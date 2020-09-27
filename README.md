@@ -16,7 +16,7 @@
 - Having a very good knowledge at MVVM architechture
 - I can develop ANN (Artificial Neural Network) and CNN(Convolutional Neural Network)
 
-### Tech Stack
+## <h1> Tech Stack </h1>
 
 ## Languages
 
