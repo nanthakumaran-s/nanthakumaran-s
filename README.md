@@ -35,10 +35,10 @@
 ## Tools
 
 <p>
-   [<img https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/tools/android_studio_colour.svg >](https://github.com/nanthakumaran-s)
-   [<img https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/tools/visualstudio_code.svg>](https://github.com/nanthakumaran-s)
-   [<img https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/tools/jetbrains_intellij.svg>](https://github.com/nanthakumaran-s)
-   [<img https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/tools/jetbrains_pycharm.svg>](https://github.com/nanthakumaran-s)
+   [<img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/tools/android_studio_colour.svg" >](https://github.com/nanthakumaran-s)
+   [<img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/tools/visualstudio_code.svg">](https://github.com/nanthakumaran-s)
+   [<img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/tools/jetbrains_intellij.svg">](https://github.com/nanthakumaran-s)
+   [<img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/tools/jetbrains_pycharm.svg">](https://github.com/nanthakumaran-s)
 </p>
 
 [![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)](https://github.com/nanthakumaran-s) [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)](https://github.com/nanthakumaran-s)
