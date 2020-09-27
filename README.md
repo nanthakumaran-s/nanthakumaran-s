@@ -20,17 +20,16 @@
 
 ## Languages
 
-<p>
-  <img src="https://img.shields.io/badge/-Kotlin-black?style=flat&logo=kotlin&logowidth=20" alt="Kotlin" style="vertical-align:top; margin:4px">
-  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/python.svg" alt="Python" style="vertical-align:top; margin:4px">
-  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/dart_colour.svg" alt="Dart" style="vertical-align:top; margin:4px"> 
-</p>
+
+  [<img src="https://img.shields.io/badge/-Kotlin-black?style=flat&logo=kotlin&logowidth=20">](https://github.com/nanthakumaran-s)
+  [<img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/python.svg" >](https://github.com/nanthakumaran-s)
+  [<img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/dart_colour.svg" >](https://github.com/nanthakumaran-s)
+
 
 ## FrameWorks
 
-<p>
-  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/frameworks/flutter.svg" alt="Flutter" style="vertical-align:top; margin:4px">
-</p>
+  [<img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/frameworks/flutter.svg">](https://github.com/nanthakumaran-s)
+
 
 ## Tools
 
