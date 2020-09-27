@@ -7,7 +7,7 @@
 <a href="https://twitter.com/nanthakumaran_/"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/twitter.png?raw=true"></a>&nbsp;&nbsp;
  </p>
 
-## Application Developer || Kotlin and Flutter ❤ || Python Programmer
+## <p align='center'>Application Developer || Kotlin and Flutter ❤ || Python Programmer </p>
 
 ## About Me
 - I'm a self taught Application Developer having a good knowledge in Kotlin and Flutter
