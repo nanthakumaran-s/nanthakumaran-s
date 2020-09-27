@@ -21,7 +21,7 @@
 ## Languages
 
 
-  [<img src="https://img.shields.io/badge/-Kotlin-black?style=flat&logo=kotlin&logowidth=100">](https://kotlinlang.org/)
+  [<img src="https://img.shields.io/badge/-Kotlin-black?style=flat&logo=kotlin&logowidth=100" width="100px">](https://kotlinlang.org/)
   [<img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/python.svg" >](https://www.python.org/)
   [<img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/dart_colour.svg" >](https://dart.dev/)
 
@@ -40,7 +40,7 @@
 
 ## Essentials
 
-[![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&logowidth=100)](https://github.com/nanthakumaran-s) [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logowidth=100)](https://github.com/nanthakumaran-s)
+[<img src="https://img.shields.io/badge/-Git-black?style=flat&logo=git&logowidth=100" width="100px" >](https://github.com/nanthakumaran-s) [<img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logowidth=100" width="100px" >](https://github.com/nanthakumaran-s)
 
 # PrimostepZ <h3> 
 [PrimostepZ](https://primostepz.come)</h3>  is a blogging website currently running by me and my friends. It's made with Wordpress. Take a look at our website.
