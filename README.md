@@ -38,8 +38,6 @@
 [<img src="https://img.shields.io/badge/-Git-black?style=flat&logo=git" width="65px" >](https://github.com/nanthakumaran-s) [<img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github" width="100px" >](https://github.com/nanthakumaran-s)
 
 # PrimostepZ 
-<h3> [PrimostepZ](https://primostepz.come) </h3>  is a blogging website currently running by me and my friends. It's made with Wordpress. Take a look at our website.
+<h3> <a href="https://primostepz.com">PrimostepZ</a> </h3>  is a blogging website currently running by me and my friends. It's made with Wordpress. Take a look at our website.
 
 <h1 align='center'><i>Every day every step makes a great change towards your goal don't forget it !..</i></h1>
-
-[![]()](https://github.com/nanthakumaran-s)
