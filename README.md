@@ -10,10 +10,10 @@
 ## <p align='center'>Application Developer || Kotlin and Flutter ❤ || Python Programmer </p>
 
 ## About Me
-- I'm a self taught Application Developer having a good knowledge in Kotlin and Flutter
+- I'm a self taught Application Developer having wonderful knowledge in Kotlin and Flutter
 - I'm very good at Python programming language
-- I can develops android apps with jetpack libraries like Room, Navigation and so on.
-- Having a very good knowledge at MVVM architechture
+- I can develop android apps with jetpack libraries like Room, Navigation and so on.
+- Having wonderful knowledge at MVVM architecture
 - I can develop ANN (Artificial Neural Network) and CNN(Convolutional Neural Network)
 
 ## <h1> Tech Stack </h1>
