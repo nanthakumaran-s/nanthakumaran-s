@@ -18,29 +18,20 @@
 
 ## <h1> Tech Stack </h1>
 
-## Languages
-
-
-  [<img src="https://img.shields.io/badge/-Kotlin-black?style=flat&logo=kotlin" width="100px">](https://kotlinlang.org/)
+<h2>Languages</h2> -> [<img src="https://img.shields.io/badge/-Kotlin-black?style=flat&logo=kotlin" width="100px">](https://kotlinlang.org/)
   [<img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/python.svg" >](https://www.python.org/)
   [<img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/dart_colour.svg" >](https://dart.dev/)
 
 
-## FrameWorks
-
-  [<img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/frameworks/flutter.svg">](flutter.dev)
+<h2>FrameWorks</h2> -> [<img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/frameworks/flutter.svg">](flutter.dev)
 
 
-## Tools
-
-   [<img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/tools/android_studio_colour.svg" >](https://developer.android.com/studio)
+<h2>Tools</h2> -> [<img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/tools/android_studio_colour.svg" >](https://developer.android.com/studio)
    [<img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/tools/visualstudio_code.svg">](https://code.visualstudio.com/)
    [<img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/tools/jetbrains_intellij.svg">](https://www.jetbrains.com/idea/)
    [<img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/tools/jetbrains_pycharm.svg">](https://www.jetbrains.com/pycharm/)
 
-## Essentials
-
-[<img src="https://img.shields.io/badge/-Git-black?style=flat&logo=git" width="100px" >](https://github.com/nanthakumaran-s) [<img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github" width="100px" >](https://github.com/nanthakumaran-s)
+<h2>Essentials</h2> -> [<img src="https://img.shields.io/badge/-Git-black?style=flat&logo=git" width="65px" >](https://github.com/nanthakumaran-s) [<img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github" width="100px" >](https://github.com/nanthakumaran-s)
 
 # PrimostepZ <h3> 
 [PrimostepZ](https://primostepz.come)</h3>  is a blogging website currently running by me and my friends. It's made with Wordpress. Take a look at our website.
