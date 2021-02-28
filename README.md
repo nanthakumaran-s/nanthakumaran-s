@@ -5,7 +5,6 @@
 <p align='center'>
    <a href="https://www.linkedin.com/in/nanthakumaran-senthil-nathan-6aa65b191/"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://twitter.com/nanthakumaran_/"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/twitter.png?raw=true"></a>&nbsp;&nbsp;
-   <a align="center" href="https://dribbble.com/nanthakumaran_s"><img height="50" src="https://cdn.dribbble.com/users/1041961/screenshots/2485936/alchemy-dribbble-icon2.gif"></a>&nbsp;&nbsp;
  </p>
 
 ## <p align='center'>Mobile and Web App Developer || Kotlin, Flutter and ReactJs ❤ || Python Programmer </p>
@@ -45,3 +44,7 @@
 <p>  PrimostepZ is a blogging website currently running by me and my friends. It's made with Wordpress. Take a look at our website. </p>
 
 <h1 align='center'><i>Every day every step makes a great change towards your goal don't forget it !..</i></h1>
+
+##
+
+<img align="left" alt="Riyazur Razak Status" src="https://github-readme-stats.codestackr.vercel.app/api?username=RiyazurRazak&show_icons=true&hide_border=false" />
