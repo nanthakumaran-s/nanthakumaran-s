@@ -7,13 +7,13 @@
 <a href="https://twitter.com/nanthakumaran_/"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/twitter.png?raw=true"></a>&nbsp;&nbsp;
  </p>
 
-## <p align='center'>Mobile and Web App Developer || Kotlin, Flutter and ReactJs ❤ || Python Programmer </p>
+## <p align='center'>Mobile and Web App Developer || Kotlin, Flutter, NextJs and ReactJs ❤ || Python Programmer </p>
 
 ## About Me
 - I'm a self-taught developer
-- Good at flutter, reactjs and nextjs
+- Good at Flutter, ReactJs and NextJs
 
-## <h1> Tech Stack </h1>
+## <h1> Tech Stacks I know </h1>
 
 ## Languages
  [<img alt="Kotlin" src="https://img.shields.io/badge/kotlin%20-%2343853D.svg?&style=for-the-badge&logo=kotlin&logoColor=white"/>]()
