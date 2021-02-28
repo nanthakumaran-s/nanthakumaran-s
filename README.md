@@ -10,7 +10,8 @@
 ## <p align='center'>Mobile and Web App Developer || Kotlin, Flutter and ReactJs ❤ || Python Programmer </p>
 
 ## About Me
-- 
+- I'm a self-taught developer
+- Good at flutter, reactjs and nextjs
 
 ## <h1> Tech Stack </h1>
 
@@ -19,7 +20,6 @@
  [<img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>]()
  [<img alt="Dart" src="https://img.shields.io/badge/dart-%230175C2.svg?&style=for-the-badge&logo=dart&logoColor=white"/>]()
  [<img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>]()
- [<img alt="NodeJS" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>]()
 
 ## FrameWorks/Libraries
 [<img alt="Flutter" src="https://img.shields.io/badge/Flutter%20-%2302569B.svg?&style=for-the-badge&logo=Flutter&logoColor=white" />]()
@@ -27,6 +27,8 @@
 [<img alt="Next Js" src="https://img.shields.io/badge/next%20js%20-%23000000.svg?&style=for-the-badge&logo=next.js&logoColor=white"/>]()
 [<img alt="Redux Js" src="https://img.shields.io/badge/redux%20-%23593d88.svg?&style=for-the-badge&logo=redux&logoColor=white"/>]()
 [<img alt="Material UI" src="https://img.shields.io/badge/material%20ui%20-%230081CB.svg?&style=for-the-badge&logo=material-ui&logoColor=white"/>]()
+[<img alt="TailWind CSS" src="https://img.shields.io/badge/tailwindcss%20-0669AD.svg?&style=for-the-badge&logo=tailwind-css&logoColor=white"/>]()
+[<img alt="NodeJS" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>]()
 [<img alt="Express Js" src="https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge"/>]()
 
 
