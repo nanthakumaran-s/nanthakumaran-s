@@ -29,18 +29,25 @@
 [<img alt="Material UI" src="https://img.shields.io/badge/material%20ui%20-%230081CB.svg?&style=for-the-badge&logo=material-ui&logoColor=white"/>]()
 [<img alt="TailWind CSS" src="https://img.shields.io/badge/tailwindcss%20-0669AD.svg?&style=for-the-badge&logo=tailwind-css&logoColor=white"/>]()
 [<img alt="NodeJS" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>]()
-[<img alt="Express Js" src="https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge"/>]()
+[<img alt="Express Js" src="https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge&logo=express&logoColor=white"/>]()
 
+## DataBase/Cloud Services
+[<img alt="MongoDB" src="https://img.shields.io/badge/mongodb%20-4FA94B.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>]()
+[<img alt="Firebase" src="https://img.shields.io/badge/firebase%20-%23039BE5.svg?&style=for-the-badge&logo=firebase"/>]()
+[<img alt="Hasura" src="https://img.shields.io/badge/hasura%20-5C94C8.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/>]()
 
 ## Tools
-[<img alt="VS Code" src="https://img.shields.io/badge/vscode%20-%23007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white"/>]()
 [<img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>]()
 [<img alt="GitHub" src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>]()
-[<img alt="Firebase" src="https://img.shields.io/badge/firebase%20-%23039BE5.svg?&style=for-the-badge&logo=firebase"/>]()
+[<img alt="VS Code" src="https://img.shields.io/badge/vscode%20-%23007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white"/>]()
 [<img alt="Android Studio" src="https://img.shields.io/badge/android%20studio%20-OA94B.svg?&style=for-the-badge&logo=android-studio&logoColor=white"/>]()
 [<img alt="Pycharm" src="https://img.shields.io/badge/pycharm%20-E34133.svg?&style=for-the-badge&logo=pycharm&logoColor=white"/>]()
+
+## UI
+[<img alt="Pycharm" src="https://img.shields.io/badge/figma%20-F34423.svg?&style=for-the-badge&logo=figma&logoColor=white"/>]()
+[<img alt="Pycharm" src="https://img.shields.io/badge/adobe%20xd%20-E473EE.svg?&style=for-the-badge&logo=adobe-xd&logoColor=white"/>]()
 
 
 ##
 
-<img align="left" alt="Nanthakumaran's Status" src="https://github-readme-stats.codestackr.vercel.app/api?username=nanthakumaran-s&show_icons=true&hide_border=false" />
+<img align="center" alt="Nanthakumaran's Status" src="https://github-readme-stats.codestackr.vercel.app/api?username=nanthakumaran-s&show_icons=true&hide_border=false" />
