@@ -47,4 +47,4 @@
 
 ##
 
-<img align="left" alt="Riyazur Razak Status" src="https://github-readme-stats.codestackr.vercel.app/api?username=RiyazurRazak&show_icons=true&hide_border=false" />
+<img align="left" alt="Riyazur Razak Status" src="https://github-readme-stats.codestackr.vercel.app/api?username=nanthakumaran_S&show_icons=true&hide_border=false" />
