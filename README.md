@@ -47,4 +47,4 @@
 
 ##
 
-<img align="left" alt="Nanthakumaran's Status" src="https://github-readme-stats.codestackr.vercel.app/api?username=nanthakumaran_s&show_icons=true&hide_border=false" />
+<img align="left" alt="Nanthakumaran's Status" src="https://github-readme-stats.codestackr.vercel.app/api?username=nanthakumaran-s&show_icons=true&hide_border=false" />
