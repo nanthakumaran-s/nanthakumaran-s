@@ -10,11 +10,7 @@
 ## <p align='center'>Mobile and Web App Developer || Kotlin, Flutter and ReactJs ❤ || Python Programmer </p>
 
 ## About Me
-- I'm a self taught Application Developer having wonderful knowledge in Kotlin and Flutter
-- I'm very good at Python programming language
-- I can develop android apps with jetpack libraries like Room, Navigation and so on.
-- Having wonderful knowledge at MVVM architecture
-- I can develop ANN (Artificial Neural Network) and CNN(Convolutional Neural Network)
+- 
 
 ## <h1> Tech Stack </h1>
 
@@ -39,11 +35,9 @@
 [<img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>]()
 [<img alt="GitHub" src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>]()
 [<img alt="Firebase" src="https://img.shields.io/badge/firebase%20-%23039BE5.svg?&style=for-the-badge&logo=firebase"/>]()
+[<img alt="Android Studio" src="https://img.shields.io/badge/android%20studio%20-OA94B.svg?&style=for-the-badge&logo=android-studio&logoColor=white"/>]()
+[<img alt="Pycharm" src="https://img.shields.io/badge/pycharm%20-E34133.svg?&style=for-the-badge&logo=pycharm&logoColor=white"/>]()
 
-## [PrimostepZ](https://primostepz.com)
-<p>  PrimostepZ is a blogging website currently running by me and my friends. It's made with Wordpress. Take a look at our website. </p>
-
-<h1 align='center'><i>Every day every step makes a great change towards your goal don't forget it !..</i></h1>
 
 ##
 
