@@ -25,6 +25,7 @@
 [<img alt="Flutter" src="https://img.shields.io/badge/Flutter%20-%2302569B.svg?&style=for-the-badge&logo=Flutter&logoColor=white" />]()
 [<img alt="React" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>]()
 [<img alt="Next Js" src="https://img.shields.io/badge/next%20js%20-%23000000.svg?&style=for-the-badge&logo=next.js&logoColor=white"/>]()
+[<img alt="Gatsby Js" src="https://img.shields.io/badge/gatsby%20-%238A4FAF.svg?&style=for-the-badge&logo=gatsby&logoColor=white"/>]()
 [<img alt="Redux Js" src="https://img.shields.io/badge/redux%20-%23593d88.svg?&style=for-the-badge&logo=redux&logoColor=white"/>]()
 [<img alt="Material UI" src="https://img.shields.io/badge/material%20ui%20-%230081CB.svg?&style=for-the-badge&logo=material-ui&logoColor=white"/>]()
 [<img alt="TailWind CSS" src="https://img.shields.io/badge/tailwindcss%20-0669AD.svg?&style=for-the-badge&logo=tailwind-css&logoColor=white"/>]()
