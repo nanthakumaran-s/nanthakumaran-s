@@ -51,4 +51,6 @@
 
 ##
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nanthakumaran-s&hide=html,css&theme=radical)]()
+
 <img align="center" alt="Nanthakumaran's Status" src="https://github-readme-stats.codestackr.vercel.app/api?username=nanthakumaran-s&show_icons=true&hide_border=false" />
