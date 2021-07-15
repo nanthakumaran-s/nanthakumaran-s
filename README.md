@@ -51,6 +51,6 @@
 
 ##
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nanthakumaran-s&hide=html,css&theme=dark)]()
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RagulRajkumar&hide=html,css&theme=dark)]()
 
 [![Nanthakumaran's GitHub stats](https://github-readme-stats.vercel.app/api?username=nanthakumaran-s&theme=dark)]()
