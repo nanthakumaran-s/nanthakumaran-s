@@ -7,11 +7,11 @@
 <a href="https://twitter.com/nanthakumaran_/"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/twitter.png?raw=true"></a>&nbsp;&nbsp;
  </p>
 
-## <p align='center'>Mobile and Web App Developer || Kotlin, Flutter, NextJs and ReactJs ❤ || Python Programmer </p>
+## <p align='center'>Software Developer</p>
 
 ## About Me
-- I'm a self-taught developer
-- Good at Flutter, ReactJs and NextJs
+- I love ❤️ writing code.
+- I enjoy creating things that inspires me. ✨
 
 ## <h1> Tech Stacks I know </h1>
 
