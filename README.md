@@ -34,7 +34,7 @@
 
 ## DataBase/Cloud Services
 [<img alt="MongoDB" src="https://img.shields.io/badge/mongodb%20-4FA94B.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>]()
-[<img alt="PostgreSQL" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>]()
+[<img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>]()
 [<img alt="Firebase" src="https://img.shields.io/badge/firebase%20-%23039BE5.svg?&style=for-the-badge&logo=firebase"/>]()
 
 ## Tools
@@ -45,8 +45,7 @@
 [<img alt="Pycharm" src="https://img.shields.io/badge/pycharm%20-E34133.svg?&style=for-the-badge&logo=pycharm&logoColor=white"/>]()
 
 ## UI
-[<img alt="Pycharm" src="https://img.shields.io/badge/figma%20-F34423.svg?&style=for-the-badge&logo=figma&logoColor=white"/>]()
-[<img alt="Pycharm" src="https://img.shields.io/badge/adobe%20xd%20-E473EE.svg?&style=for-the-badge&logo=adobe-xd&logoColor=white"/>]()
+[<img alt="Figma" src="https://img.shields.io/badge/figma%20-F34423.svg?&style=for-the-badge&logo=figma&logoColor=white"/>]()
 
 
 ##
