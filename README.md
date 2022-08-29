@@ -4,7 +4,7 @@
 
 <p align='center'>
    <a href="https://www.nanthakumaran.com/"><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Circle-icons-browser.svg/1024px-Circle-icons-browser.svg.png"></a>&nbsp;&nbsp;
-   <a href="https://www.linkedin.com/in/nanthakumaran-senthil-nathan-6aa65b191/"><img height="30" src="https://play-lh.googleusercontent.com/kMofEFLjobZy_bCuaiDogzBcUT-dz3BBbOrIEjJ-hqOabjK8ieuevGe6wlTD15QzOqw"></a>&nbsp;&nbsp;
+   <a href="https://www.linkedin.com/in/nanthakumaran-s/"><img height="30" src="https://play-lh.googleusercontent.com/kMofEFLjobZy_bCuaiDogzBcUT-dz3BBbOrIEjJ-hqOabjK8ieuevGe6wlTD15QzOqw"></a>&nbsp;&nbsp;
 <a href="https://twitter.com/nanthakumaran_/"><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Twitter-logo.svg/1200px-Twitter-logo.svg.png"></a>&nbsp;&nbsp;
  </p>
 
