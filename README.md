@@ -15,7 +15,7 @@
 - ⚙️ I use daily: `.py`, `.ts`, `.dart`, `.tsx`
 - 🔥 Interested in Cloud engineering
 - 🗓 Looking for contributing to open source projects
-- 📝 Checkout my [Resume](files/resume.pdf)
+- 📝 Checkout my [Resume](files/Resume.pdf)
 
 ### Tech Stacks I Know
 
