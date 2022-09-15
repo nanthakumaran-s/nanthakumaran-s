@@ -62,6 +62,8 @@
 
 [![Nanthakumaran's Activity Graph](https://activity-graph.herokuapp.com/graph?username=nanthakumaran-s&custom_title=Nanthakumaran's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://www.nanthakumaran.com/)
 
+<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=nanthakumaran-s&theme=gruvbox&no-bg=true&no-frame=true&margin-h=10" alt="nanthakumaran-s" /> </p>
+
 #### Recent Activity
 
 <p><b> &#9749; Latest Medium Blogs</b></p>
