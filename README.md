@@ -2,7 +2,6 @@
   <h3>
     Hi there, I'm Nanthakumaran S
     <br/>
-    <br/>
     Software Developer | Cloud Enthusiast
   </h3>
 </div>
