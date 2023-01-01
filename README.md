@@ -1,50 +1,39 @@
 <div align="center">
   <h2>
-    Hi there, I'm
-    <a href="https://www.nanthakumaran.com/">Nanthakumaran S</a>
+    Hi there, I'm Nanthakumaran S
   </h2>
 </div>
+
+### <p align='center'>Software Develope | Cloud Enthusiast</p>
 
 <p align='center'>
    <a href="https://www.nanthakumaran.com/">
     <img 
-      height="25" 
-      src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Circle-icons-browser.svg/1024px-Circle-icons-browser.svg.png"
+      height="20" 
+      src="https://img.shields.io/badge/nanthakumaran.com-website-f55?style=for-the-badge"
       target="_blank"
     >
   </a>
   &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/nanthakumaran-s/">
     <img 
-      height="25" 
-      src="https://play-lh.googleusercontent.com/kMofEFLjobZy_bCuaiDogzBcUT-dz3BBbOrIEjJ-hqOabjK8ieuevGe6wlTD15QzOqw"
+      height="20" 
+      src="https://img.shields.io/badge/nanthakumaran--s-Linkedin-0B65C2?style=for-the-badge"
       target="_blank"
     >
   </a>
   &nbsp;&nbsp;
   <a href="https://twitter.com/nanthakumaran_/">
     <img 
-      height="25" 
-      src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Twitter-logo.svg/1200px-Twitter-logo.svg.png"
+      height="20" 
+      src="https://img.shields.io/twitter/follow/nanthakumaran_?logo=twitter&style=for-the-badge&color=1DA1F2"
       target="_blank"
     >
   </a>
   &nbsp;&nbsp;
 </p>
 
-<p align="left">
-  <a 
-    href="https://twitter.com/intent/follow?screen_name=nanthakumaran_" target="_blank"
-  >
-    <img 
-      src="https://img.shields.io/twitter/follow/nanthakumaran_?logo=twitter&style=for-the-badge&color=1DA1F2"
-      alt="nanthakumaran_"
-    />
-  </a>
-</p>
 
-
-### <p align='center'>Software Develope | Cloud Enthusiast</p>
 
 #### About Me
 - 🏢 Incoming Associate Engineer at **Presidio Inc**
