@@ -1,10 +1,10 @@
 <div align="center">
   <h2>
-    Hi there, I'm Nanthakumaran S
+    Hi there, I'm 
+    <span style="color:#FFF7FE;font-weight:bold;">Nanthakumaran S</span>
   </h2>
+  <h3 align='center'>Software Develope | Cloud Enthusiast</h3>
 </div>
-
-## <p align='center'>Software Develope | Cloud Enthusiast</p>
 
 <p align='center'>
    <a href="https://www.nanthakumaran.com/">
