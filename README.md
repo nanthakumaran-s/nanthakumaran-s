@@ -1,9 +1,9 @@
 <div align="center">
   <h3>
-    Hi there, I'm 
-    <span style="color:#FFF7FE;font-weight:bold;">Nanthakumaran S</span>
+    Hi there, I'm Nanthakumaran S
+    <br/>
+    Software Developer | Cloud Enthusiast
   </h3>
-  <h3 align='center'>Software Developer | Cloud Enthusiast</h3>
 </div>
 
 <br />
@@ -40,6 +40,7 @@
 #### About Me
 - 🏢 Incoming Associate Engineer at **Presidio Inc**
 - 🧐 Interested in DevOps & Cloud Computing
+- 🛠️ Love to build tools (CLI and Automation tools)
 - 📖 Open Source Contributor
 - 📝 Checkout my [Resume](files/Resume.pdf)
 
@@ -66,18 +67,3 @@
 <p><b> &#9749; Latest Medium Blogs</b></p>
 
 <a target="_blank" href="https://nanthakumaran.medium.com/how-to-run-background-tasks-in-flutter-using-workmanager-579479f802c8"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@nanthakumaran/0" alt="Latest medium article"></a>
-
-#### Connect With Me
-
-<a href="https://twitter.com/nanthakumaran_">
-  <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25>
-</a> 
-<a href="https://www.linkedin.com/in/nanthakumaran-s/">
-  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>
-</a>
-<a href="https://medium.com/@nanthakumaran">
-  <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" height=25>
-</a>
-<a href="mailto:nanthakumaran.ofcl@gmail.com">
-  <img src="	https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25>
-</a>
