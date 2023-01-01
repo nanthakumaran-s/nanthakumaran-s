@@ -1,17 +1,19 @@
 <div align="center">
-  <h2>
+  <h3>
     Hi there, I'm 
     <span style="color:#FFF7FE;font-weight:bold;">Nanthakumaran S</span>
-  </h2>
-  <h3 align='center'>Software Develope | Cloud Enthusiast</h3>
+  </h3>
+  <h3 align='center'>Software Developer | Cloud Enthusiast</h3>
 </div>
+
+<br />
 
 <p align='center'>
    <a href="https://www.nanthakumaran.com/">
     <img 
       height="25" 
       src="https://img.shields.io/badge/nanthakumaran.com-website-f55?style=for-the-badge"
-      target="_blank"
+      target="blank"
     >
   </a>
   &nbsp;&nbsp;
@@ -19,7 +21,7 @@
     <img 
       height="25" 
       src="https://img.shields.io/badge/nanthakumaran--s-Linkedin-0B65C2?style=for-the-badge"
-      target="_blank"
+      target="blank"
     >
   </a>
   &nbsp;&nbsp;
@@ -27,7 +29,7 @@
     <img 
       height="25" 
       src="https://img.shields.io/twitter/follow/nanthakumaran_?logo=twitter&style=for-the-badge&color=1DA1F2"
-      target="_blank"
+      target="blank"
     >
   </a>
   &nbsp;&nbsp;
