@@ -2,11 +2,10 @@
   <h3>
     Hi there, I'm Nanthakumaran S
     <br/>
+    <br/>
     Software Developer | Cloud Enthusiast
   </h3>
 </div>
-
-<br />
 
 <p align='center'>
    <a href="https://www.nanthakumaran.com/">
@@ -35,16 +34,12 @@
   &nbsp;&nbsp;
 </p>
 
-
-
 #### About Me
 - 🏢 Incoming Associate Engineer at **Presidio Inc**
 - 🧐 Interested in DevOps & Cloud Computing
 - 🛠️ Love to build tools (CLI and Automation tools)
 - 📖 Open Source Contributor
 - 📝 Checkout my [Resume](files/Resume.pdf)
-
-<br>
 
 #### My Statistics
 <p>
