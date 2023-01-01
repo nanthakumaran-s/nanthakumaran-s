@@ -58,16 +58,16 @@
 <p>
   <img 
     width="49.5%" 
-    src="https://github-readme-stats.vercel.app/api?username=nanthakumaran-s&show_icons=true&bg_color=0E1117&title_color=8b949e&text_color=8b949e&icon_color=26a641" 
+    src="https://github-readme-stats.vercel.app/api?username=nanthakumaran-s&show_icons=true&hide_border=true&bg_color=0E1117&title_color=8b949e&text_color=8b949e&icon_color=26a641" 
   />
   <img 
     width="49.5%" 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=nanthakumaran-s&theme=gruvbox" 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=nanthakumaran-s&hide_border=true&background=0E1117&ring=26a641&fire=26a641&currStreakNum=26a641&sideNums=26a641&currStreakLabel=8b949e&sideLabels=8b949e&dates=8b949e" 
   />
 </p>
 <br>
 <img
-  src="https://github-readme-activity-graph.cyclic.app/graph?username=nanthakumaran-s&custom_title=Nanthakumaran%20S%27s%20Contribution%20Graph&theme=github-compact&area=true" 
+  src="https://github-readme-activity-graph.cyclic.app/graph?username=nanthakumaran-s&custom_title=Nanthakumaran%20S%27s%20Contribution%20Graph&theme=github-compact&hide_border=true&area=true" 
 />
 
 #### Recent Activity
