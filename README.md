@@ -9,7 +9,7 @@
 <p align='center'>
    <a href="https://www.nanthakumaran.com/">
     <img 
-      height="20" 
+      height="25" 
       src="https://img.shields.io/badge/nanthakumaran.com-website-f55?style=for-the-badge"
       target="_blank"
     >
@@ -17,7 +17,7 @@
   &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/nanthakumaran-s/">
     <img 
-      height="20" 
+      height="25" 
       src="https://img.shields.io/badge/nanthakumaran--s-Linkedin-0B65C2?style=for-the-badge"
       target="_blank"
     >
@@ -25,7 +25,7 @@
   &nbsp;&nbsp;
   <a href="https://twitter.com/nanthakumaran_/">
     <img 
-      height="20" 
+      height="25" 
       src="https://img.shields.io/twitter/follow/nanthakumaran_?logo=twitter&style=for-the-badge&color=1DA1F2"
       target="_blank"
     >
