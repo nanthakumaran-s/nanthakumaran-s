@@ -3,8 +3,8 @@
     Hi there, I'm Nanthakumaran S
   </h2>
 </div>
-
-### <p align='center'>Software Develope | Cloud Enthusiast</p>
+<p align='center'>Software Develope | Cloud Enthusiast</p>
+<br />
 
 <p align='center'>
    <a href="https://www.nanthakumaran.com/">
