@@ -55,8 +55,12 @@
   src="https://github-readme-activity-graph.cyclic.app/graph?username=nanthakumaran-s&custom_title=Nanthakumaran%20S%27s%20Contribution%20Graph&theme=github-compact&hide_border=true&area=true" 
 />
 
-#### Recent Activity
+<p><b> &#9749; Latest Hashnode Blogs</b></p>
+
+<!-- HASHNODE_BLOG:START -->
+<!-- HASHNODE_BLOG:END -->
 
 <p><b> &#9749; Latest Medium Blogs</b></p>
 
-<a target="_blank" href="https://nanthakumaran.medium.com/how-to-run-background-tasks-in-flutter-using-workmanager-579479f802c8"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@nanthakumaran/0" alt="Latest medium article"></a>
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
