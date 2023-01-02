@@ -58,7 +58,15 @@
 <p><b> &#9749; Latest Hashnode Blogs</b></p>
 
 <!-- HASHNODE_BLOG:START -->
+<p align="left">
+<a href="https://blog.nanthakumaran.com//how-to-automate-releases-and-publish-packages-to-npm-using-github-actions" title="How to automate releases and publish packages to NPM using GitHub Actions"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1672649721660/e45021f4-7cb2-46f1-8823-112f3f84e373.png" alt="How to automate releases and publish packages to NPM using GitHub Actions" width="250px" align="left" /></a>
+<a href="https://blog.nanthakumaran.com//how-to-automate-releases-and-publish-packages-to-npm-using-github-actions" title="How to automate releases and publish packages to NPM using GitHub Actions"><strong>How to automate releases and publish packages to NPM using GitHub Actions</strong></a>
+<div><strong>2 Jan 2023</strong></div>
+<br/> In this article, we will take a look at how to automate releases and publish packages to NPM using GitHub Actions.
+Step 1: Add tokens to GitHub
+We need 2 tokens to accomplish this task of automating releases and publishing packages.
 
+PA_TOKEN - Perso... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 <p><b> &#9749; Latest Medium Blogs</b></p>
