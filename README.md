@@ -64,4 +64,5 @@
 <p><b> &#9749; Latest Medium Blogs</b></p>
 
 <!-- BLOG-POST-LIST:START -->
+- [How to run background tasks in Flutter using WorkManager](https://nanthakumaran.medium.com/how-to-run-background-tasks-in-flutter-using-workmanager-579479f802c8?source=rss-153b47e3ff8c------2)
 <!-- BLOG-POST-LIST:END -->
