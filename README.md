@@ -48,19 +48,20 @@
   />
   <img 
     width="49.5%" 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=nanthakumaran-s&hide_border=true&background=0E1117&ring=26a641&fire=26a641&currStreakNum=26a641&sideNums=26a641&currStreakLabel=8b949e&sideLabels=8b949e&dates=8b949e" 
+    src="https://streak-stats.demolab.com/?user=nanthakumaran-s&hide_border=true&background=0E1117&ring=26a641&fire=26a641&currStreakNum=26a641&sideNums=26a641&currStreakLabel=8b949e&sideLabels=8b949e&dates=8b949e" 
   />
 </p>
 <img
   src="https://github-readme-activity-graph.cyclic.app/graph?username=nanthakumaran-s&custom_title=Nanthakumaran%20S%27s%20Contribution%20Graph&theme=github-compact&hide_border=true&area=true" 
 />
 
-<p><b> &#9749; Latest Hashnode Blogs</b></p>
-
-<!-- HASHNODE_BLOG:START -->
-<!-- HASHNODE_BLOG:END -->
-
-<p><b> &#9749; Latest Medium Blogs</b></p>
+<p><b> ☕️ Latest Articles</b></p>
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
+
+
+<p><b> ⚡️ Recent Activities</b></p>
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
