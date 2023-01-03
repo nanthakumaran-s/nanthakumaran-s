@@ -64,4 +64,9 @@
 <p><b> ⚡️ Recent Activities</b></p>
 
 <!--START_SECTION:activity-->
+1. ❗️ Opened issue [#6334](https://github.com/EddieHubCommunity/support/issues/6334) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+2. 🎉 Merged PR [#5](https://github.com/nanthakumaran-s/Tweet-CLI/pull/5) in [nanthakumaran-s/Tweet-CLI](https://github.com/nanthakumaran-s/Tweet-CLI)
+3. 💪 Opened PR [#5](https://github.com/nanthakumaran-s/Tweet-CLI/pull/5) in [nanthakumaran-s/Tweet-CLI](https://github.com/nanthakumaran-s/Tweet-CLI)
+4. 🎉 Merged PR [#4](https://github.com/nanthakumaran-s/Tweet-CLI/pull/4) in [nanthakumaran-s/Tweet-CLI](https://github.com/nanthakumaran-s/Tweet-CLI)
+5. 💪 Opened PR [#4](https://github.com/nanthakumaran-s/Tweet-CLI/pull/4) in [nanthakumaran-s/Tweet-CLI](https://github.com/nanthakumaran-s/Tweet-CLI)
 <!--END_SECTION:activity-->
