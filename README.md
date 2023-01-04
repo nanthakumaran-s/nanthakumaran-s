@@ -66,9 +66,9 @@
 <p><b> ⚡️ Recent Activities</b></p>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2636](https://github.com/EddieHubCommunity/LinkFree/pull/2636) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
-2. ❗️ Opened issue [#6334](https://github.com/EddieHubCommunity/support/issues/6334) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
-3. 🎉 Merged PR [#5](https://github.com/nanthakumaran-s/Tweet-CLI/pull/5) in [nanthakumaran-s/Tweet-CLI](https://github.com/nanthakumaran-s/Tweet-CLI)
-4. 💪 Opened PR [#5](https://github.com/nanthakumaran-s/Tweet-CLI/pull/5) in [nanthakumaran-s/Tweet-CLI](https://github.com/nanthakumaran-s/Tweet-CLI)
-5. 🎉 Merged PR [#4](https://github.com/nanthakumaran-s/Tweet-CLI/pull/4) in [nanthakumaran-s/Tweet-CLI](https://github.com/nanthakumaran-s/Tweet-CLI)
+1. ❗️ Opened issue [#2637](https://github.com/EddieHubCommunity/LinkFree/issues/2637) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
+2. 💪 Opened PR [#2636](https://github.com/EddieHubCommunity/LinkFree/pull/2636) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
+3. ❗️ Opened issue [#6334](https://github.com/EddieHubCommunity/support/issues/6334) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+4. 🎉 Merged PR [#5](https://github.com/nanthakumaran-s/Tweet-CLI/pull/5) in [nanthakumaran-s/Tweet-CLI](https://github.com/nanthakumaran-s/Tweet-CLI)
+5. 💪 Opened PR [#5](https://github.com/nanthakumaran-s/Tweet-CLI/pull/5) in [nanthakumaran-s/Tweet-CLI](https://github.com/nanthakumaran-s/Tweet-CLI)
 <!--END_SECTION:activity-->
