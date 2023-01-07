@@ -67,9 +67,9 @@
 <p><b> ⚡️ Recent Activities</b></p>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#361](https://github.com/WebXDAO/start-here/issues/361) in [WebXDAO/start-here](https://github.com/WebXDAO/start-here)
-2. ❗️ Opened issue [#289](https://github.com/SurPathHub/support/issues/289) in [SurPathHub/support](https://github.com/SurPathHub/support)
-3. ❗️ Opened issue [#370](https://github.com/Tech-Phantoms/community/issues/370) in [Tech-Phantoms/community](https://github.com/Tech-Phantoms/community)
-4. ❗️ Closed issue [#368](https://github.com/Tech-Phantoms/community/issues/368) in [Tech-Phantoms/community](https://github.com/Tech-Phantoms/community)
-5. ❗️ Opened issue [#291](https://github.com/AccessibleForAll/Support/issues/291) in [AccessibleForAll/Support](https://github.com/AccessibleForAll/Support)
+1. 🗣 Commented on [#2820](https://github.com/EddieHubCommunity/LinkFree/issues/2820) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
+2. 🗣 Commented on [#2820](https://github.com/EddieHubCommunity/LinkFree/issues/2820) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
+3. ❗️ Opened issue [#361](https://github.com/WebXDAO/start-here/issues/361) in [WebXDAO/start-here](https://github.com/WebXDAO/start-here)
+4. ❗️ Opened issue [#289](https://github.com/SurPathHub/support/issues/289) in [SurPathHub/support](https://github.com/SurPathHub/support)
+5. ❗️ Opened issue [#370](https://github.com/Tech-Phantoms/community/issues/370) in [Tech-Phantoms/community](https://github.com/Tech-Phantoms/community)
 <!--END_SECTION:activity-->
