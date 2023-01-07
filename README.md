@@ -67,9 +67,9 @@
 <p><b> ⚡️ Recent Activities</b></p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2810](https://github.com/EddieHubCommunity/LinkFree/issues/2810) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
-2. ❗️ Opened issue [#368](https://github.com/Tech-Phantoms/community/issues/368) in [Tech-Phantoms/community](https://github.com/Tech-Phantoms/community)
-3. 🗣 Commented on [#2636](https://github.com/EddieHubCommunity/LinkFree/issues/2636) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
-4. 🗣 Commented on [#2636](https://github.com/EddieHubCommunity/LinkFree/issues/2636) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
-5. 🗣 Commented on [#2638](https://github.com/EddieHubCommunity/LinkFree/issues/2638) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
+1. ❗️ Opened issue [#361](https://github.com/WebXDAO/start-here/issues/361) in [WebXDAO/start-here](https://github.com/WebXDAO/start-here)
+2. ❗️ Opened issue [#289](https://github.com/SurPathHub/support/issues/289) in [SurPathHub/support](https://github.com/SurPathHub/support)
+3. ❗️ Opened issue [#370](https://github.com/Tech-Phantoms/community/issues/370) in [Tech-Phantoms/community](https://github.com/Tech-Phantoms/community)
+4. ❗️ Closed issue [#368](https://github.com/Tech-Phantoms/community/issues/368) in [Tech-Phantoms/community](https://github.com/Tech-Phantoms/community)
+5. ❗️ Opened issue [#291](https://github.com/AccessibleForAll/Support/issues/291) in [AccessibleForAll/Support](https://github.com/AccessibleForAll/Support)
 <!--END_SECTION:activity-->
