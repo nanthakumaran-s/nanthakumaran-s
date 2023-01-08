@@ -67,9 +67,9 @@
 <p><b> ⚡️ Recent Activities</b></p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2820](https://github.com/EddieHubCommunity/LinkFree/issues/2820) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
-2. 🗣 Commented on [#2820](https://github.com/EddieHubCommunity/LinkFree/issues/2820) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
-3. ❗️ Opened issue [#361](https://github.com/WebXDAO/start-here/issues/361) in [WebXDAO/start-here](https://github.com/WebXDAO/start-here)
-4. ❗️ Opened issue [#289](https://github.com/SurPathHub/support/issues/289) in [SurPathHub/support](https://github.com/SurPathHub/support)
-5. ❗️ Opened issue [#370](https://github.com/Tech-Phantoms/community/issues/370) in [Tech-Phantoms/community](https://github.com/Tech-Phantoms/community)
+1. 🗣 Commented on [#2839](https://github.com/EddieHubCommunity/LinkFree/issues/2839) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
+2. 🗣 Commented on [#2840](https://github.com/EddieHubCommunity/LinkFree/issues/2840) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
+3. 🗣 Commented on [#2856](https://github.com/EddieHubCommunity/LinkFree/issues/2856) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
+4. 🗣 Commented on [#2820](https://github.com/EddieHubCommunity/LinkFree/issues/2820) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
+5. 🗣 Commented on [#2820](https://github.com/EddieHubCommunity/LinkFree/issues/2820) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
 <!--END_SECTION:activity-->
