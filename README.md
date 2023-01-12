@@ -67,9 +67,9 @@
 <p><b> ⚡️ Recent Activities</b></p>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2869](https://github.com/EddieHubCommunity/LinkFree/pull/2869) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
-2. 💪 Opened PR [#2861](https://github.com/EddieHubCommunity/LinkFree/pull/2861) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
-3. 🗣 Commented on [#2839](https://github.com/EddieHubCommunity/LinkFree/issues/2839) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
-4. 🗣 Commented on [#2840](https://github.com/EddieHubCommunity/LinkFree/issues/2840) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
-5. 🗣 Commented on [#2856](https://github.com/EddieHubCommunity/LinkFree/issues/2856) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
+1. 🗣 Commented on [#2869](https://github.com/EddieHubCommunity/LinkFree/issues/2869) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
+2. 💪 Opened PR [#2869](https://github.com/EddieHubCommunity/LinkFree/pull/2869) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
+3. 💪 Opened PR [#2861](https://github.com/EddieHubCommunity/LinkFree/pull/2861) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
+4. 🗣 Commented on [#2839](https://github.com/EddieHubCommunity/LinkFree/issues/2839) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
+5. 🗣 Commented on [#2840](https://github.com/EddieHubCommunity/LinkFree/issues/2840) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
 <!--END_SECTION:activity-->
