@@ -1,3 +1,12 @@
+## [0.3.2](https://github.com/nanthakumaran-s/nanthakumaran-s/compare/v0.3.1...v0.3.2) (2023-01-12)
+
+
+### Bug Fixes
+
+* URL Update for Github Readme Stats ([454d528](https://github.com/nanthakumaran-s/nanthakumaran-s/commit/454d52874c1332c941ad97139b9a392e02867df3))
+
+
+
 ## [0.3.1](https://github.com/nanthakumaran-s/nanthakumaran-s/compare/v0.3.0...v0.3.1) (2023-01-12)
 
 
