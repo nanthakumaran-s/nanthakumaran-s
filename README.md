@@ -44,7 +44,7 @@
 <p>
   <img 
     width="49.5%" 
-    src="[https://github-readme-stats.vercel.app/api?username=nanthakumaran-s&show_icons=true&hide_border=true&bg_color=0E1117&title_color=8b949e&text_color=8b949e&icon_color=26a641](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=nanthakumaran-s&show_icons=true&hide_border=true&bg_color=0E1117&title_color=8b949e&text_color=8b949e&icon_color=26a641)" 
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=nanthakumaran-s&show_icons=true&hide_border=true&bg_color=0E1117&title_color=8b949e&text_color=8b949e&icon_color=26a641" 
   />
   <img 
     width="49.5%" 
