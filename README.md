@@ -67,9 +67,9 @@
 <p><b> ⚡️ Recent Activities</b></p>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#15](https://github.com/nanthakumaran-s/portfolio/pull/15) in [nanthakumaran-s/portfolio](https://github.com/nanthakumaran-s/portfolio)
-2. 🎉 Merged PR [#14](https://github.com/nanthakumaran-s/portfolio/pull/14) in [nanthakumaran-s/portfolio](https://github.com/nanthakumaran-s/portfolio)
-3. 💪 Opened PR [#14](https://github.com/nanthakumaran-s/portfolio/pull/14) in [nanthakumaran-s/portfolio](https://github.com/nanthakumaran-s/portfolio)
-4. 🎉 Merged PR [#13](https://github.com/nanthakumaran-s/portfolio/pull/13) in [nanthakumaran-s/portfolio](https://github.com/nanthakumaran-s/portfolio)
-5. 💪 Opened PR [#13](https://github.com/nanthakumaran-s/portfolio/pull/13) in [nanthakumaran-s/portfolio](https://github.com/nanthakumaran-s/portfolio)
+1. ❌ Closed PR [#1](https://github.com/nanthakumaran-s/LinkFree/pull/1) in [nanthakumaran-s/LinkFree](https://github.com/nanthakumaran-s/LinkFree)
+2. 🗣 Commented on [#2176](https://github.com/EddieHubCommunity/LinkFree/issues/2176) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
+3. 🎉 Merged PR [#15](https://github.com/nanthakumaran-s/portfolio/pull/15) in [nanthakumaran-s/portfolio](https://github.com/nanthakumaran-s/portfolio)
+4. 🎉 Merged PR [#14](https://github.com/nanthakumaran-s/portfolio/pull/14) in [nanthakumaran-s/portfolio](https://github.com/nanthakumaran-s/portfolio)
+5. 💪 Opened PR [#14](https://github.com/nanthakumaran-s/portfolio/pull/14) in [nanthakumaran-s/portfolio](https://github.com/nanthakumaran-s/portfolio)
 <!--END_SECTION:activity-->
