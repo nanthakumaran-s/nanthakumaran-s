@@ -67,9 +67,9 @@
 <p><b> ⚡️ Recent Activities</b></p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3482](https://github.com/EddieHubCommunity/LinkFree/issues/3482) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
-2. ❌ Closed PR [#1](https://github.com/nanthakumaran-s/LinkFree/pull/1) in [nanthakumaran-s/LinkFree](https://github.com/nanthakumaran-s/LinkFree)
-3. 🗣 Commented on [#2176](https://github.com/EddieHubCommunity/LinkFree/issues/2176) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
-4. 🎉 Merged PR [#15](https://github.com/nanthakumaran-s/portfolio/pull/15) in [nanthakumaran-s/portfolio](https://github.com/nanthakumaran-s/portfolio)
-5. 🎉 Merged PR [#14](https://github.com/nanthakumaran-s/portfolio/pull/14) in [nanthakumaran-s/portfolio](https://github.com/nanthakumaran-s/portfolio)
+1. 🗣 Commented on [#3469](https://github.com/EddieHubCommunity/LinkFree/issues/3469) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
+2. 🗣 Commented on [#3482](https://github.com/EddieHubCommunity/LinkFree/issues/3482) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
+3. ❌ Closed PR [#1](https://github.com/nanthakumaran-s/LinkFree/pull/1) in [nanthakumaran-s/LinkFree](https://github.com/nanthakumaran-s/LinkFree)
+4. 🗣 Commented on [#2176](https://github.com/EddieHubCommunity/LinkFree/issues/2176) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
+5. 🎉 Merged PR [#15](https://github.com/nanthakumaran-s/portfolio/pull/15) in [nanthakumaran-s/portfolio](https://github.com/nanthakumaran-s/portfolio)
 <!--END_SECTION:activity-->
