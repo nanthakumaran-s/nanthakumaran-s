@@ -67,9 +67,9 @@
 <p><b> ⚡️ Recent Activities</b></p>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2](https://github.com/nanthakumaran-s/terraform-github-actions-example/pull/2) in [nanthakumaran-s/terraform-github-actions-example](https://github.com/nanthakumaran-s/terraform-github-actions-example)
-2. 🎉 Merged PR [#1](https://github.com/nanthakumaran-s/terraform-github-actions-example/pull/1) in [nanthakumaran-s/terraform-github-actions-example](https://github.com/nanthakumaran-s/terraform-github-actions-example)
-3. 🗣 Commented on [#1](https://github.com/nanthakumaran-s/terraform-github-actions-example/issues/1) in [nanthakumaran-s/terraform-github-actions-example](https://github.com/nanthakumaran-s/terraform-github-actions-example)
-4. 💪 Opened PR [#1](https://github.com/nanthakumaran-s/terraform-github-actions-example/pull/1) in [nanthakumaran-s/terraform-github-actions-example](https://github.com/nanthakumaran-s/terraform-github-actions-example)
-5. 🗣 Commented on [#3638](https://github.com/EddieHubCommunity/LinkFree/issues/3638) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
+1. ❗️ Opened issue [#2](https://github.com/nanthakumaran-s/upptime/issues/2) in [nanthakumaran-s/upptime](https://github.com/nanthakumaran-s/upptime)
+2. 💪 Opened PR [#2](https://github.com/nanthakumaran-s/terraform-github-actions-example/pull/2) in [nanthakumaran-s/terraform-github-actions-example](https://github.com/nanthakumaran-s/terraform-github-actions-example)
+3. 🎉 Merged PR [#1](https://github.com/nanthakumaran-s/terraform-github-actions-example/pull/1) in [nanthakumaran-s/terraform-github-actions-example](https://github.com/nanthakumaran-s/terraform-github-actions-example)
+4. 🗣 Commented on [#1](https://github.com/nanthakumaran-s/terraform-github-actions-example/issues/1) in [nanthakumaran-s/terraform-github-actions-example](https://github.com/nanthakumaran-s/terraform-github-actions-example)
+5. 💪 Opened PR [#1](https://github.com/nanthakumaran-s/terraform-github-actions-example/pull/1) in [nanthakumaran-s/terraform-github-actions-example](https://github.com/nanthakumaran-s/terraform-github-actions-example)
 <!--END_SECTION:activity-->
