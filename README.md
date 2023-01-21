@@ -67,9 +67,9 @@
 <p><b> ⚡️ Recent Activities</b></p>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#2](https://github.com/nanthakumaran-s/upptime/issues/2) in [nanthakumaran-s/upptime](https://github.com/nanthakumaran-s/upptime)
-2. 🗣 Commented on [#2](https://github.com/nanthakumaran-s/upptime/issues/2) in [nanthakumaran-s/upptime](https://github.com/nanthakumaran-s/upptime)
-3. ❗️ Opened issue [#2](https://github.com/nanthakumaran-s/upptime/issues/2) in [nanthakumaran-s/upptime](https://github.com/nanthakumaran-s/upptime)
-4. 💪 Opened PR [#2](https://github.com/nanthakumaran-s/terraform-github-actions-example/pull/2) in [nanthakumaran-s/terraform-github-actions-example](https://github.com/nanthakumaran-s/terraform-github-actions-example)
-5. 🎉 Merged PR [#1](https://github.com/nanthakumaran-s/terraform-github-actions-example/pull/1) in [nanthakumaran-s/terraform-github-actions-example](https://github.com/nanthakumaran-s/terraform-github-actions-example)
+1. 🗣 Commented on [#8](https://github.com/nanthakumaran-s/resize/issues/8) in [nanthakumaran-s/resize](https://github.com/nanthakumaran-s/resize)
+2. ❗️ Closed issue [#2](https://github.com/nanthakumaran-s/upptime/issues/2) in [nanthakumaran-s/upptime](https://github.com/nanthakumaran-s/upptime)
+3. 🗣 Commented on [#2](https://github.com/nanthakumaran-s/upptime/issues/2) in [nanthakumaran-s/upptime](https://github.com/nanthakumaran-s/upptime)
+4. ❗️ Opened issue [#2](https://github.com/nanthakumaran-s/upptime/issues/2) in [nanthakumaran-s/upptime](https://github.com/nanthakumaran-s/upptime)
+5. 💪 Opened PR [#2](https://github.com/nanthakumaran-s/terraform-github-actions-example/pull/2) in [nanthakumaran-s/terraform-github-actions-example](https://github.com/nanthakumaran-s/terraform-github-actions-example)
 <!--END_SECTION:activity-->
