@@ -68,8 +68,8 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#4124](https://github.com/EddieHubCommunity/LinkFree/issues/4124) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
-2. 🗣 Commented on [#3792](https://github.com/EddieHubCommunity/LinkFree/issues/3792) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
-3. 🗣 Commented on [#3380](https://github.com/EddieHubCommunity/LinkFree/issues/3380) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
-4. 💪 Opened PR [#3765](https://github.com/EddieHubCommunity/LinkFree/pull/3765) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
-5. 🗣 Commented on [#8](https://github.com/nanthakumaran-s/resize/issues/8) in [nanthakumaran-s/resize](https://github.com/nanthakumaran-s/resize)
+2. 🗣 Commented on [#4124](https://github.com/EddieHubCommunity/LinkFree/issues/4124) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
+3. 🗣 Commented on [#3792](https://github.com/EddieHubCommunity/LinkFree/issues/3792) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
+4. 🗣 Commented on [#3380](https://github.com/EddieHubCommunity/LinkFree/issues/3380) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
+5. 💪 Opened PR [#3765](https://github.com/EddieHubCommunity/LinkFree/pull/3765) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
 <!--END_SECTION:activity-->
