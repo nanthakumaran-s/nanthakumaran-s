@@ -67,7 +67,7 @@
 <p><b> ⚡️ Recent Activities</b></p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4124](https://github.com/EddieHubCommunity/LinkFree/issues/4124) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
+1. 🎉 Merged PR [#1](https://github.com/nanthakumaran-s/ETL-pipeline-tweets-and-news-py-kafka-aws-elk/pull/1) in [nanthakumaran-s/ETL-pipeline-tweets-and-news-py-kafka-aws-elk](https://github.com/nanthakumaran-s/ETL-pipeline-tweets-and-news-py-kafka-aws-elk)
 2. 🗣 Commented on [#4124](https://github.com/EddieHubCommunity/LinkFree/issues/4124) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
 3. 🗣 Commented on [#3792](https://github.com/EddieHubCommunity/LinkFree/issues/3792) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
 4. 🗣 Commented on [#3380](https://github.com/EddieHubCommunity/LinkFree/issues/3380) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
