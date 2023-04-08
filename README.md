@@ -58,6 +58,8 @@
 <p><b> ☕️ Latest Articles</b></p>
 
 <!-- BLOG-POST-LIST:START -->
+- [How to automate releases and publish packages to NPM using GitHub Actions](https://nanthakumaran.medium.com/how-to-automate-releases-and-publish-packages-to-npm-using-github-actions-910d5128c0fa?source=rss-153b47e3ff8c------2)
+- [Conventional Commits: Simplify Your Project History and Automate Tasks](https://nanthakumaran.medium.com/conventional-commits-simplify-your-project-history-and-automate-tasks-29007273e198?source=rss-153b47e3ff8c------2)
 - [Conventional Commits: Simplify Your Project History and Automate Tasks](https://blog.nanthakumaran.com/conventional-commits-simplify-your-project-history-and-automate-tasks)
 - [How to automate releases and publish packages to NPM using GitHub Actions](https://blog.nanthakumaran.com/how-to-automate-releases-and-publish-packages-to-npm-using-github-actions)
 - [How to run background tasks in Flutter using WorkManager](https://nanthakumaran.medium.com/how-to-run-background-tasks-in-flutter-using-workmanager-579479f802c8?source=rss-153b47e3ff8c------2)
