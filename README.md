@@ -67,9 +67,9 @@
 <p><b> ⚡️ Recent Activities</b></p>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/nanthakumaran-s/ETL-pipeline-tweets-and-news-py-kafka-aws-elk/pull/1) in [nanthakumaran-s/ETL-pipeline-tweets-and-news-py-kafka-aws-elk](https://github.com/nanthakumaran-s/ETL-pipeline-tweets-and-news-py-kafka-aws-elk)
-2. 🗣 Commented on [#4124](https://github.com/EddieHubCommunity/LinkFree/issues/4124) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
-3. 🗣 Commented on [#3792](https://github.com/EddieHubCommunity/LinkFree/issues/3792) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
+1. ❗️ Opened issue [#4](https://github.com/nanthakumaran-s/upptime/issues/4) in [nanthakumaran-s/upptime](https://github.com/nanthakumaran-s/upptime)
+2. ❗️ Opened issue [#3](https://github.com/nanthakumaran-s/upptime/issues/3) in [nanthakumaran-s/upptime](https://github.com/nanthakumaran-s/upptime)
+3. 🎉 Merged PR [#1](https://github.com/nanthakumaran-s/ETL-pipeline-tweets-and-news-py-kafka-aws-elk/pull/1) in [nanthakumaran-s/ETL-pipeline-tweets-and-news-py-kafka-aws-elk](https://github.com/nanthakumaran-s/ETL-pipeline-tweets-and-news-py-kafka-aws-elk)
 4. 🗣 Commented on [#3380](https://github.com/EddieHubCommunity/LinkFree/issues/3380) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
 5. 💪 Opened PR [#3765](https://github.com/EddieHubCommunity/LinkFree/pull/3765) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
 <!--END_SECTION:activity-->
