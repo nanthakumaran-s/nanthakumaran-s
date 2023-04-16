@@ -67,9 +67,9 @@
 <p><b> ⚡️ Recent Activities</b></p>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#4](https://github.com/nanthakumaran-s/upptime/issues/4) in [nanthakumaran-s/upptime](https://github.com/nanthakumaran-s/upptime)
-2. 🗣 Commented on [#4](https://github.com/nanthakumaran-s/upptime/issues/4) in [nanthakumaran-s/upptime](https://github.com/nanthakumaran-s/upptime)
-3. ❗️ Opened issue [#4](https://github.com/nanthakumaran-s/upptime/issues/4) in [nanthakumaran-s/upptime](https://github.com/nanthakumaran-s/upptime)
-4. ❗️ Opened issue [#3](https://github.com/nanthakumaran-s/upptime/issues/3) in [nanthakumaran-s/upptime](https://github.com/nanthakumaran-s/upptime)
-5. 🎉 Merged PR [#1](https://github.com/nanthakumaran-s/ETL-pipeline-tweets-and-news-py-kafka-aws-elk/pull/1) in [nanthakumaran-s/ETL-pipeline-tweets-and-news-py-kafka-aws-elk](https://github.com/nanthakumaran-s/ETL-pipeline-tweets-and-news-py-kafka-aws-elk)
+1. ❗️ Closed issue [#3](https://github.com/nanthakumaran-s/upptime/issues/3) in [nanthakumaran-s/upptime](https://github.com/nanthakumaran-s/upptime)
+2. 🗣 Commented on [#3](https://github.com/nanthakumaran-s/upptime/issues/3) in [nanthakumaran-s/upptime](https://github.com/nanthakumaran-s/upptime)
+3. ❗️ Closed issue [#4](https://github.com/nanthakumaran-s/upptime/issues/4) in [nanthakumaran-s/upptime](https://github.com/nanthakumaran-s/upptime)
+4. 🗣 Commented on [#4](https://github.com/nanthakumaran-s/upptime/issues/4) in [nanthakumaran-s/upptime](https://github.com/nanthakumaran-s/upptime)
+5. ❗️ Opened issue [#4](https://github.com/nanthakumaran-s/upptime/issues/4) in [nanthakumaran-s/upptime](https://github.com/nanthakumaran-s/upptime)
 <!--END_SECTION:activity-->
