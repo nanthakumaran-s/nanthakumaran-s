@@ -38,7 +38,7 @@
 - 🧐 Interested in DevOps & Cloud Computing
 - 🛠️ Love to build tools (CLI and Automation tools)
 - 📖 Open Source Contributor
-- 📝 Checkout my [Resume](files/Resume.pdf)
+- 📝 Checkout my [Resume](https://www.nanthakumaran.com/Nanthakumaran.pdf)
 
 #### My Statistics
 <p>
@@ -52,7 +52,7 @@
   />
 </p>
 <img
-  src="https://github-readme-activity-graph.cyclic.app/graph?username=nanthakumaran-s&custom_title=Nanthakumaran%20S%27s%20Contribution%20Graph&theme=github-compact&hide_border=true&area=true" 
+  src="https://github-readme-activity-graph.vercel.app/graph?username=nanthakumaran-s&custom_title=Nanthakumaran%20S%27s%20Contribution%20Graph&theme=github-compact&hide_border=true&area=true" 
 />
 
 <p><b> ☕️ Latest Articles</b></p>
