@@ -67,9 +67,9 @@
 <p><b> ⚡️ Recent Activities</b></p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#20981](https://github.com/nrwl/nx/issues/20981#issuecomment-1875131487) in [nrwl/nx](https://github.com/nrwl/nx)
-2. 🗣 Commented on [#20981](https://github.com/nrwl/nx/issues/20981#issuecomment-1875130681) in [nrwl/nx](https://github.com/nrwl/nx)
-3. ❗ Opened issue [#20981](https://github.com/nrwl/nx/issues/20981) in [nrwl/nx](https://github.com/nrwl/nx)
-4. 🗣 Commented on [#9](https://github.com/nanthakumaran-s/upptime/issues/9#issuecomment-1858535815) in [nanthakumaran-s/upptime](https://github.com/nanthakumaran-s/upptime)
-5. 🔒 Closed issue [#9](https://github.com/nanthakumaran-s/upptime/issues/9) in [nanthakumaran-s/upptime](https://github.com/nanthakumaran-s/upptime)
+1. 🔒 Closed issue [#20981](https://github.com/nrwl/nx/issues/20981) in [nrwl/nx](https://github.com/nrwl/nx)
+2. 🗣 Commented on [#20981](https://github.com/nrwl/nx/issues/20981#issuecomment-1875131487) in [nrwl/nx](https://github.com/nrwl/nx)
+3. 🗣 Commented on [#20981](https://github.com/nrwl/nx/issues/20981#issuecomment-1875130681) in [nrwl/nx](https://github.com/nrwl/nx)
+4. ❗ Opened issue [#20981](https://github.com/nrwl/nx/issues/20981) in [nrwl/nx](https://github.com/nrwl/nx)
+5. 🗣 Commented on [#9](https://github.com/nanthakumaran-s/upptime/issues/9#issuecomment-1858535815) in [nanthakumaran-s/upptime](https://github.com/nanthakumaran-s/upptime)
 <!--END_SECTION:activity-->
