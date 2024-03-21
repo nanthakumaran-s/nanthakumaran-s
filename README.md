@@ -68,9 +68,9 @@
 <p><b> ⚡️ Recent Activities</b></p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3](https://github.com/roubachof/Maui.Nuke/issues/3#issuecomment-2011686913) in [roubachof/Maui.Nuke](https://github.com/roubachof/Maui.Nuke)
-2. 🗣 Commented on [#2](https://github.com/nanthakumaran-s/Learn-Kafka/issues/2#issuecomment-1987338503) in [nanthakumaran-s/Learn-Kafka](https://github.com/nanthakumaran-s/Learn-Kafka)
-3. 🗣 Commented on [#1](https://github.com/nanthakumaran-s/Learn-Kafka/issues/1#issuecomment-1987337688) in [nanthakumaran-s/Learn-Kafka](https://github.com/nanthakumaran-s/Learn-Kafka)
-4. ❗ Opened issue [#20981](https://github.com/nrwl/nx/issues/20981) in [nrwl/nx](https://github.com/nrwl/nx)
+1. 🗣 Commented on [#3](https://github.com/roubachof/Maui.Nuke/issues/3#issuecomment-2011865136) in [roubachof/Maui.Nuke](https://github.com/roubachof/Maui.Nuke)
+2. 🗣 Commented on [#3](https://github.com/roubachof/Maui.Nuke/issues/3#issuecomment-2011686913) in [roubachof/Maui.Nuke](https://github.com/roubachof/Maui.Nuke)
+3. 🗣 Commented on [#2](https://github.com/nanthakumaran-s/Learn-Kafka/issues/2#issuecomment-1987338503) in [nanthakumaran-s/Learn-Kafka](https://github.com/nanthakumaran-s/Learn-Kafka)
+4. 🗣 Commented on [#1](https://github.com/nanthakumaran-s/Learn-Kafka/issues/1#issuecomment-1987337688) in [nanthakumaran-s/Learn-Kafka](https://github.com/nanthakumaran-s/Learn-Kafka)
 5. 🗣 Commented on [#9](https://github.com/nanthakumaran-s/upptime/issues/9#issuecomment-1858535815) in [nanthakumaran-s/upptime](https://github.com/nanthakumaran-s/upptime)
 <!--END_SECTION:activity-->
