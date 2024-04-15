@@ -68,9 +68,9 @@
 <p><b> ⚡️ Recent Activities</b></p>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#6](https://github.com/roubachof/Maui.Nuke/issues/6) in [roubachof/Maui.Nuke](https://github.com/roubachof/Maui.Nuke)
-2. 🗣 Commented on [#3](https://github.com/roubachof/Maui.Nuke/issues/3#issuecomment-2011865136) in [roubachof/Maui.Nuke](https://github.com/roubachof/Maui.Nuke)
-3. 🗣 Commented on [#3](https://github.com/roubachof/Maui.Nuke/issues/3#issuecomment-2011686913) in [roubachof/Maui.Nuke](https://github.com/roubachof/Maui.Nuke)
-4. 🗣 Commented on [#2](https://github.com/nanthakumaran-s/Learn-Kafka/issues/2#issuecomment-1987338503) in [nanthakumaran-s/Learn-Kafka](https://github.com/nanthakumaran-s/Learn-Kafka)
-5. 🗣 Commented on [#1](https://github.com/nanthakumaran-s/Learn-Kafka/issues/1#issuecomment-1987337688) in [nanthakumaran-s/Learn-Kafka](https://github.com/nanthakumaran-s/Learn-Kafka)
+1. ❗ Opened issue [#11](https://github.com/nanthakumaran-s/upptime/issues/11) in [nanthakumaran-s/upptime](https://github.com/nanthakumaran-s/upptime)
+2. ❗ Opened issue [#10](https://github.com/nanthakumaran-s/upptime/issues/10) in [nanthakumaran-s/upptime](https://github.com/nanthakumaran-s/upptime)
+3. ❗ Opened issue [#6](https://github.com/roubachof/Maui.Nuke/issues/6) in [roubachof/Maui.Nuke](https://github.com/roubachof/Maui.Nuke)
+4. 🗣 Commented on [#3](https://github.com/roubachof/Maui.Nuke/issues/3#issuecomment-2011865136) in [roubachof/Maui.Nuke](https://github.com/roubachof/Maui.Nuke)
+5. 🗣 Commented on [#3](https://github.com/roubachof/Maui.Nuke/issues/3#issuecomment-2011686913) in [roubachof/Maui.Nuke](https://github.com/roubachof/Maui.Nuke)
 <!--END_SECTION:activity-->
