@@ -68,9 +68,9 @@
 <p><b> ⚡️ Recent Activities</b></p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#10](https://github.com/nanthakumaran-s/upptime/issues/10#issuecomment-2058886440) in [nanthakumaran-s/upptime](https://github.com/nanthakumaran-s/upptime)
-2. 🔒 Closed issue [#10](https://github.com/nanthakumaran-s/upptime/issues/10) in [nanthakumaran-s/upptime](https://github.com/nanthakumaran-s/upptime)
-3. ❗ Opened issue [#11](https://github.com/nanthakumaran-s/upptime/issues/11) in [nanthakumaran-s/upptime](https://github.com/nanthakumaran-s/upptime)
-4. ❗ Opened issue [#10](https://github.com/nanthakumaran-s/upptime/issues/10) in [nanthakumaran-s/upptime](https://github.com/nanthakumaran-s/upptime)
-5. ❗ Opened issue [#6](https://github.com/roubachof/Maui.Nuke/issues/6) in [roubachof/Maui.Nuke](https://github.com/roubachof/Maui.Nuke)
+1. ❗ Opened issue [#12](https://github.com/nanthakumaran-s/upptime/issues/12) in [nanthakumaran-s/upptime](https://github.com/nanthakumaran-s/upptime)
+2. 🗣 Commented on [#10](https://github.com/nanthakumaran-s/upptime/issues/10#issuecomment-2058886440) in [nanthakumaran-s/upptime](https://github.com/nanthakumaran-s/upptime)
+3. 🔒 Closed issue [#10](https://github.com/nanthakumaran-s/upptime/issues/10) in [nanthakumaran-s/upptime](https://github.com/nanthakumaran-s/upptime)
+4. ❗ Opened issue [#11](https://github.com/nanthakumaran-s/upptime/issues/11) in [nanthakumaran-s/upptime](https://github.com/nanthakumaran-s/upptime)
+5. ❗ Opened issue [#10](https://github.com/nanthakumaran-s/upptime/issues/10) in [nanthakumaran-s/upptime](https://github.com/nanthakumaran-s/upptime)
 <!--END_SECTION:activity-->
