@@ -68,9 +68,9 @@
 <p><b> ⚡️ Recent Activities</b></p>
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#22](https://github.com/nanthakumaran-s/upptime/issues/22) in [nanthakumaran-s/upptime](https://github.com/nanthakumaran-s/upptime)
-2. 🗣 Commented on [#22](https://github.com/nanthakumaran-s/upptime/issues/22#issuecomment-2073011722) in [nanthakumaran-s/upptime](https://github.com/nanthakumaran-s/upptime)
-3. ❗ Opened issue [#22](https://github.com/nanthakumaran-s/upptime/issues/22) in [nanthakumaran-s/upptime](https://github.com/nanthakumaran-s/upptime)
-4. 🗣 Commented on [#21](https://github.com/nanthakumaran-s/upptime/issues/21#issuecomment-2071756622) in [nanthakumaran-s/upptime](https://github.com/nanthakumaran-s/upptime)
-5. 🔒 Closed issue [#21](https://github.com/nanthakumaran-s/upptime/issues/21) in [nanthakumaran-s/upptime](https://github.com/nanthakumaran-s/upptime)
+1. 🗣 Commented on [#23](https://github.com/nanthakumaran-s/upptime/issues/23#issuecomment-2080957856) in [nanthakumaran-s/upptime](https://github.com/nanthakumaran-s/upptime)
+2. 🔒 Closed issue [#23](https://github.com/nanthakumaran-s/upptime/issues/23) in [nanthakumaran-s/upptime](https://github.com/nanthakumaran-s/upptime)
+3. ❗ Opened issue [#23](https://github.com/nanthakumaran-s/upptime/issues/23) in [nanthakumaran-s/upptime](https://github.com/nanthakumaran-s/upptime)
+4. 🔒 Closed issue [#22](https://github.com/nanthakumaran-s/upptime/issues/22) in [nanthakumaran-s/upptime](https://github.com/nanthakumaran-s/upptime)
+5. 🗣 Commented on [#22](https://github.com/nanthakumaran-s/upptime/issues/22#issuecomment-2073011722) in [nanthakumaran-s/upptime](https://github.com/nanthakumaran-s/upptime)
 <!--END_SECTION:activity-->
