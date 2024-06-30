@@ -68,8 +68,8 @@
 <p><b> ⚡️ Recent Activities</b></p>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#33](https://github.com/nanthakumaran-s/upptime/issues/33) in [nanthakumaran-s/upptime](https://github.com/nanthakumaran-s/upptime)
-2. 🔒 Closed issue [#32](https://github.com/nanthakumaran-s/upptime/issues/32) in [nanthakumaran-s/upptime](https://github.com/nanthakumaran-s/upptime)
+1. 🗣 Commented on [#33](https://github.com/nanthakumaran-s/upptime/issues/33#issuecomment-2198655508) in [nanthakumaran-s/upptime](https://github.com/nanthakumaran-s/upptime)
+2. 🔒 Closed issue [#33](https://github.com/nanthakumaran-s/upptime/issues/33) in [nanthakumaran-s/upptime](https://github.com/nanthakumaran-s/upptime)
 3. 🗣 Commented on [#32](https://github.com/nanthakumaran-s/upptime/issues/32#issuecomment-2102589235) in [nanthakumaran-s/upptime](https://github.com/nanthakumaran-s/upptime)
 4. ❗ Opened issue [#32](https://github.com/nanthakumaran-s/upptime/issues/32) in [nanthakumaran-s/upptime](https://github.com/nanthakumaran-s/upptime)
 5. 🔒 Closed issue [#31](https://github.com/nanthakumaran-s/upptime/issues/31) in [nanthakumaran-s/upptime](https://github.com/nanthakumaran-s/upptime)
