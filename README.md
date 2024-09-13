@@ -69,7 +69,7 @@
 <p><b> ⚡️ Recent Activities</b></p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#11](https://github.com/nanthakumaran-s/upptime/issues/11#issuecomment-2198661480) in [nanthakumaran-s/upptime](https://github.com/nanthakumaran-s/upptime)
+1. 🎉 Merged PR [#1](https://github.com/nanthakumaran-s/website/pull/1) in [nanthakumaran-s/website](https://github.com/nanthakumaran-s/website)
 2. 🔒 Closed issue [#11](https://github.com/nanthakumaran-s/upptime/issues/11) in [nanthakumaran-s/upptime](https://github.com/nanthakumaran-s/upptime)
 3. 🗣 Commented on [#33](https://github.com/nanthakumaran-s/upptime/issues/33#issuecomment-2198655508) in [nanthakumaran-s/upptime](https://github.com/nanthakumaran-s/upptime)
 4. 🔒 Closed issue [#33](https://github.com/nanthakumaran-s/upptime/issues/33) in [nanthakumaran-s/upptime](https://github.com/nanthakumaran-s/upptime)
