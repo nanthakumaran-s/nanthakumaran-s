@@ -69,9 +69,9 @@
 <p><b> ⚡️ Recent Activities</b></p>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#33](https://github.com/FlyJingFish/AndroidAOP/issues/33) in [FlyJingFish/AndroidAOP](https://github.com/FlyJingFish/AndroidAOP)
-2. 🎉 Merged PR [#1](https://github.com/nanthakumaran-s/website/pull/1) in [nanthakumaran-s/website](https://github.com/nanthakumaran-s/website)
-3. 🗣 Commented on [#33](https://github.com/nanthakumaran-s/upptime/issues/33#issuecomment-2198655508) in [nanthakumaran-s/upptime](https://github.com/nanthakumaran-s/upptime)
+1. 🗣 Commented on [#33](https://github.com/FlyJingFish/AndroidAOP/issues/33#issuecomment-2354944416) in [FlyJingFish/AndroidAOP](https://github.com/FlyJingFish/AndroidAOP)
+2. ❗ Opened issue [#33](https://github.com/FlyJingFish/AndroidAOP/issues/33) in [FlyJingFish/AndroidAOP](https://github.com/FlyJingFish/AndroidAOP)
+3. 🎉 Merged PR [#1](https://github.com/nanthakumaran-s/website/pull/1) in [nanthakumaran-s/website](https://github.com/nanthakumaran-s/website)
 4. 🔒 Closed issue [#33](https://github.com/nanthakumaran-s/upptime/issues/33) in [nanthakumaran-s/upptime](https://github.com/nanthakumaran-s/upptime)
 5. 🔒 Closed issue [#31](https://github.com/nanthakumaran-s/upptime/issues/31) in [nanthakumaran-s/upptime](https://github.com/nanthakumaran-s/upptime)
 <!--END_SECTION:activity-->
