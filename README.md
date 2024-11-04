@@ -69,9 +69,9 @@
 <p><b> ⚡️ Recent Activities</b></p>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#34](https://github.com/nanthakumaran-s/upptime/issues/34) in [nanthakumaran-s/upptime](https://github.com/nanthakumaran-s/upptime)
-2. 🗣 Commented on [#33](https://github.com/FlyJingFish/AndroidAOP/issues/33#issuecomment-2355005417) in [FlyJingFish/AndroidAOP](https://github.com/FlyJingFish/AndroidAOP)
-3. 🗣 Commented on [#33](https://github.com/FlyJingFish/AndroidAOP/issues/33#issuecomment-2355001454) in [FlyJingFish/AndroidAOP](https://github.com/FlyJingFish/AndroidAOP)
+1. 🗣 Commented on [#34](https://github.com/nanthakumaran-s/upptime/issues/34#issuecomment-2455195471) in [nanthakumaran-s/upptime](https://github.com/nanthakumaran-s/upptime)
+2. 🔒 Closed issue [#34](https://github.com/nanthakumaran-s/upptime/issues/34) in [nanthakumaran-s/upptime](https://github.com/nanthakumaran-s/upptime)
+3. ❗ Opened issue [#34](https://github.com/nanthakumaran-s/upptime/issues/34) in [nanthakumaran-s/upptime](https://github.com/nanthakumaran-s/upptime)
 4. 🗣 Commented on [#33](https://github.com/FlyJingFish/AndroidAOP/issues/33#issuecomment-2354944416) in [FlyJingFish/AndroidAOP](https://github.com/FlyJingFish/AndroidAOP)
 5. ❗ Opened issue [#33](https://github.com/FlyJingFish/AndroidAOP/issues/33) in [FlyJingFish/AndroidAOP](https://github.com/FlyJingFish/AndroidAOP)
 <!--END_SECTION:activity-->
