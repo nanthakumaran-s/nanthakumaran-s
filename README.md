@@ -2,7 +2,7 @@
   <h3>
     Hi there, I'm Nanthakumaran S
     <br/>
-    Associate Engineer @Presidio | Software, Cloud & Data Engineer | 1x AWS
+    Engineer @Presidio | Software, Cloud & Data Engineer | 2x AWS
   </h3>
 </div>
 
@@ -34,8 +34,8 @@
 </p>
 
 #### About Me
-- 🏢 Associate Engineer at **Presidio Inc**
-- 🔖 AWS Certified Solution Architect
+- 🏢 Engineer at **Presidio Inc**
+- 🔖 AWS Certified Solution Architect & AWS Certified Developer
 - 🧐 Interested in Data & Cloud Computing
 - 🛠️ Love to build tools (CLI and Automation tools)
 - 📖 Open Source Contributor
