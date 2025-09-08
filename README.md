@@ -69,7 +69,7 @@
 <p><b> ⚡️ Recent Activities</b></p>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#48](https://github.com/nanthakumaran-s/upptime/issues/48) in [nanthakumaran-s/upptime](https://github.com/nanthakumaran-s/upptime)
+1.  Labeled issue [#48](https://github.com/nanthakumaran-s/upptime/issues/48) in [nanthakumaran-s/upptime](https://github.com/nanthakumaran-s/upptime)
 2.  Labeled issue [#48](https://github.com/nanthakumaran-s/upptime/issues/48) in [nanthakumaran-s/upptime](https://github.com/nanthakumaran-s/upptime)
 3. ❗ Opened issue [#48](https://github.com/nanthakumaran-s/upptime/issues/48) in [nanthakumaran-s/upptime](https://github.com/nanthakumaran-s/upptime)
 4. ❗ Opened issue [#47](https://github.com/nanthakumaran-s/upptime/issues/47) in [nanthakumaran-s/upptime](https://github.com/nanthakumaran-s/upptime)
